@@ -1,5 +1,5 @@
 #### **update log:**
-2021-07-28: Limit the frequency of access, each IP access to the interface is limited to 2 times per second, if it is exceeded, an error that the access frequency exceeds the limit will be reported
+2021-07-28: Limit the frequency of access, each IP access to the interface is limited to 2 times per second and 1000 times every day, if it is exceeded, an error that the access frequency exceeds the limit will be reported
 
  2021-07-18 : Added Symbols: BNB、NEO、ONT、Steller(XLM)、POTE、CLUB
 
